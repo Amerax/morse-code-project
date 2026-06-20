@@ -5,6 +5,8 @@ It is a nice beginner project and is very simple to set up and takes little codi
 I made it because I wanted to learn some more arduino after I bought a kit and you can simply follow my schmeatics to wire it. 
 I also made a 3 printed case for it to house the breadboard. 
 
+I learned quite a bit from this project, especially how digital pins work on arduinos. I think it's very cool!
+
 Pin mapping:
 
 5V -> Breadboard + Rail
