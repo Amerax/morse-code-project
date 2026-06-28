@@ -15,6 +15,29 @@ Pin 2 -> Buzzer Positive
 Pin 7 -> Button
 Pin 21 -> LED Anode
 
+Stuff I learned:
+-How digital input and output pins work on an Arduino.
+-Reading button input.
+-Controlling LEDs and buzzers using digital signals.
+
+Running:
+
+Take out the nessecary components as listed above and wire as listed above.
+Then take an arduino and upload the c++ ino code in that are in the repo.
+Upload and paste them into the arduino ide. 
+Then simply press the buttons and play around as you like. 
+
+Features:
+
+Send Morse code using a push button.
+LED flashes while a signal is being sent.
+Buzzer plays a tone alongside the LED.
+Morse code is displayed in the Arduino Serial Monitor.
+
 Visualized demo:
 
 <img width="1475" height="1110" alt="image" src="https://github.com/user-attachments/assets/0650397f-6ca5-4412-ab15-ab26bf5dc956" />
+
+Real demo link:
+
+https://youtu.be/pxr5mzSvdw0 
